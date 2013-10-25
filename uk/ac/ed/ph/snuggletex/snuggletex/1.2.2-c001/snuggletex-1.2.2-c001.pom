@@ -30,7 +30,7 @@ All Rights Reserved
   </properties>
   <repositories>
     <repository>
-      <id>com.github.drc-devs</id>
+      <id>com.github.LeeGDavis</id>
       <url>https://raw.github.com/LeeGDavis/mvn-repo/master</url>
       <snapshots>
         <enabled>true</enabled>
