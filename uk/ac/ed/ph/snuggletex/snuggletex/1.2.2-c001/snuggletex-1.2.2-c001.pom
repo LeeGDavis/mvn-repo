@@ -30,8 +30,8 @@ All Rights Reserved
   </properties>
   <repositories>
     <repository>
-      <id>com.github.LeeGDavis</id>
-      <url>https://raw.github.com/LeeGDavis/mvn-repo/master</url>
+      <id>www2.ph.ed.ac.uk</id>
+      <url>http://www2.ph.ed.ac.uk/maven2</url>
       <snapshots>
         <enabled>true</enabled>
       </snapshots>
